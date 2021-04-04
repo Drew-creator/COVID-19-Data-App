@@ -1,0 +1,27 @@
+#stateSearch {
+    margin-left: 68%;
+}
+
+#nav {
+    background-color: rgb(160, 245, 236);
+}
+
+#stateTitle {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 1px 1px 4px #d3d3d3;
+}
+
+body {
+    background: url("US.jpg");
+    background-position: absolute;
+}
+
+#infoDiv {
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 25px;
+    background-color: rgb(231, 231, 231);
+    
+}
